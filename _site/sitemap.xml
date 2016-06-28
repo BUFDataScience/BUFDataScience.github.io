@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/tidy_data/</loc>
+<loc>https://BUFDataScience.github.iohttps://BUFDataScience.github.io/tidy_data/</loc>
 <lastmod>2016-06-27T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>/survival_analysis/</loc>
+<loc>https://BUFDataScience.github.iohttps://BUFDataScience.github.io/survival_analysis/</loc>
 <lastmod>2016-06-27T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>/about/</loc>
+<loc>https://BUFDataScience.github.iohttps://BUFDataScience.github.io/about/</loc>
 </url>
 <url>
-<loc>/contact/</loc>
+<loc>https://BUFDataScience.github.iohttps://BUFDataScience.github.io/contact/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>https://BUFDataScience.github.iohttps://BUFDataScience.github.io/</loc>
 </url>
 <url>
-<loc>/tags/</loc>
+<loc>https://BUFDataScience.github.iohttps://BUFDataScience.github.io/tags/</loc>
 </url>
 </urlset>
