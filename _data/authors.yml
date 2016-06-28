@@ -1,0 +1,13 @@
+Steve Simpson:
+  name: "Steve Simpson"
+  uri: "data-steve.github.io"
+  bio: "Lead Data Scientist"
+  avatar: "data+steve.jpg"
+  twitter: "data_steve"
+
+Tyler Rinker:
+  name: "Tyler Rinker"
+  uri: "https://trinkerrstuff.wordpress.com/"
+  bio: "Data Scientist"
+  avatar: "https://pbs.twimg.com/profile_images/3409396165/3df155436a5f9201830bcc65f7a836f7.jpeg"
+  twitter: "tylerrinker"
