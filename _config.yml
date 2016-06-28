@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Buffalo Data Science"
 description              : 
 url                      : https://bufdatascience.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : https://bufdatascience.github.io # the subpath of your site, e.g. "/blog"
+baseurl                  : #https://bufdatascience.github.io # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs            : true # true, false (default)
