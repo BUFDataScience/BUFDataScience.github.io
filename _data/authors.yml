@@ -1,0 +1,20 @@
+Steve Simpson:
+  name: "Steve Simpson"
+  uri: "data-steve.github.io"
+  avatar: "data+steve.jpg"
+  twitter: "data_steve"
+  linkedin: steve-simpson-1a05376
+  github: data-steve
+
+Tyler Rinker:
+  name: "Tyler Rinker"
+  uri: "https://trinkerrstuff.wordpress.com/"
+  avatar: "https://pbs.twimg.com/profile_images/3409396165/3df155436a5f9201830bcc65f7a836f7.jpeg"
+  twitter: "tylerrinker"
+  linked: tyler-rinker-1a036b39
+  github: trinker
+
+Tom Fusillo:
+  name: "Tom Fusillo"
+  avatar: tom.jpg
+  linkedin: tom-fusillo-21152138
