@@ -14,7 +14,7 @@ Every good prediction has at least 2 parts:
 - the amount of uncertainty about the range of possible values that prediction could take in the data. 
 
 
-When statistical predictions are utilized, a lot of general interest is focused around the first part (predicted value) because that feels like the successful part, like hard facts. In contrast, the uncertainty part can sometimes feel, well, like the falling-short part, the part to be minimized. Even while being something we may desire to minimize, it is still valuable information. For one, you can't minimize what you don't measure or estimate. For another, when we have something that is highly certain and highly (dis)advantageous, that will lead us to (divest) invest more. 
+When statistical predictions are utilized, a lot of general interest is focused around the first part (predicted value) because that feels like the successful part, like hard facts. In contrast, the uncertainty part can sometimes feel, well, like the falling-short part, the part to be minimized. Even while being something we may desire to minimize, the estimate of uncertainty is still valuable information. For one, you can't minimize what you don't measure. For another, when we know something that is highly certain, we can make confident decisions. So if we are fairly certain that an outcome will be highly (dis)advantageous, knowing this information with certainty will cause us to act more decisively and possibly more intensively to (divest) invest. 
 
 So both parts are valuable. In every day life we use both to make informed decisions. And its good when the reporting and consumption of statistical prediction can reflect the way we use prediction all the time.
 
