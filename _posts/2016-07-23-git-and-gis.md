@@ -1,5 +1,5 @@
 ---
-layout: post
+author: Steve Simpson
 title: 'Meetup 3: Git and GIS'
 tags: [git,GIS]
 ---
