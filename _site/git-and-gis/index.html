@@ -1,0 +1,399 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Meetup 3: Git and GIS - Buffalo Data Science</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="Buffalo Data Science">
+<meta property="og:title" content="Meetup 3: Git and GIS">
+
+
+  <link rel="canonical" href="https://bufdatascience.github.io/git-and-gis/">
+  <meta property="og:url" content="https://bufdatascience.github.io/git-and-gis/">
+
+
+
+  <meta property="og:description" content="            When:      Tues July 26th 6-8pm              Where:      Electric Tower  (535 Washington Str, 14th Flr).              What:      git and GIS              Eats:      Beer and TBD      ">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2016-07-23T00:00:00-04:00">
+  
+  
+    <link rel="prev" href="https://bufdatascience.github.io/shrinking-uncertainty/" title="Repost: Shrinking Uncertainty">
+  
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Buffalo Data Science",
+      "url" : "https://bufdatascience.github.io",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://bufdatascience.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Buffalo Data Science Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://bufdatascience.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+<link rel="shortcut icon" href="/images/buffalo_ds.png">
+<!-- end custom head snippets -->
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://bufdatascience.github.io/">Buffalo Data Science</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://bufdatascience.github.io/tags/">Tags</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://bufdatascience.github.io/about/">About</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+  
+    
+
+
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a href="https://bufdatascience.github.io/" itemprop="item"><span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep"> / </span>
+      
+      
+        <li class="current">Meetup 3: Git and GIS</li>
+      
+    
+  </ol>
+</nav>
+  
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="https://bufdatascience.github.io/images/data+steve.jpg" class="author__avatar" alt="Steve Simpson">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Steve Simpson</h3>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+      
+        <li><a href="data-steve.github.io"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Website</a></li>
+      
+      
+      
+      
+        <li><a href="https://twitter.com/data_steve"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      
+      
+      
+      
+        <li><a href="https://www.linkedin.com/in/steve-simpson-1a05376"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+      
+      
+      
+      
+      
+      
+        <li><a href="https://github.com/data-steve"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Meetup 3: Git and GIS">
+    <meta itemprop="description" content="            When:      Tues July 26th 6-8pm              Where:      Electric Tower  (535 Washington Str, 14th Flr).              What:      git and GIS              Eats:      Beer and TBD      ">
+    <meta itemprop="datePublished" content="July 23, 2016">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Meetup 3: Git and GIS
+</h1>
+          
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  less than 1 minute read
+	
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <table>
+  <tbody>
+    <tr>
+      <td>When:</td>
+      <td>Tues July 26th 6-8pm</td>
+    </tr>
+    <tr>
+      <td>Where:</td>
+      <td>Electric Tower  (535 Washington Str, 14th Flr).</td>
+    </tr>
+    <tr>
+      <td>What:</td>
+      <td>git and GIS</td>
+    </tr>
+    <tr>
+      <td>Eats:</td>
+      <td>Beer and TBD</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="git">git</h2>
+
+<p><img src="/images/try_github.png" alt="" /></p>
+
+<p>Mike Canzoneri will be presenting on git. He’ll be assuming you’re at least familiar with basic idea of git. Create a github account at least.</p>
+
+<p>Also, in prep for the git presentation, please give <a href="try.github.io">try.github.io</a> a go. It’s pretty decent UI practice for regular git tasks.</p>
+
+<p>As the tweet below suggests merging and branching project on teams is work and takes serious thought. But it also is a major advance for managing team work.</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">git merge <a href="https://t.co/WjXAbpALLD">pic.twitter.com/WjXAbpALLD</a></p>&mdash; The Practical Dev (@ThePracticalDev) <a href="https://twitter.com/ThePracticalDev/status/756864968088256512">July 23, 2016</a></blockquote>
+
+<h2 id="gis">GIS</h2>
+
+<p>Eric Montz will be giving us a GIS overview with some exposure to how to do it in python.</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/gis?src=hash">#gis</a> data traditionally undervalued w.r.t. <a href="https://twitter.com/hashtag/DataScience?src=hash">#DataScience</a> ROI - need more <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a> tools ht <a href="https://twitter.com/loqate">@loqate</a>  <a href="https://t.co/deX0b9ut6W">https://t.co/deX0b9ut6W</a></p>&mdash; Michael Cavaretta (@mjcavaretta) <a href="https://twitter.com/mjcavaretta/status/756511769103835136">July 22, 2016</a></blockquote>
+
+<p>After the presentation we’ll upload some content to the blog.</p>
+
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="https://bufdatascience.github.io/tags/#gis" class="page__taxonomy-item" rel="tag">GIS</a><span class="sep">, </span>
+    
+      
+      
+      <a href="https://bufdatascience.github.io/tags/#git" class="page__taxonomy-item" rel="tag">git</a>
+    
+    </span>
+  </p>
+
+
+
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2016-07-23T00:00:00-04:00">July 23, 2016</time></p>
+        
+      </footer>
+
+      
+
+      
+
+
+  <nav class="pagination">
+    
+      <a href="https://bufdatascience.github.io/shrinking-uncertainty/" class="pagination--pager" title="Repost: Shrinking Uncertainty
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+      <li><a href="http://github.com/BUFDataScience"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="https://bufdatascience.github.io/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">&copy; 2016 Buffalo Data Science. Sponsored by <a href="https://www.acvauctions.com" target = "_blank" rel="nofollow">ACV Auctions</a> &amp; <a href="http://www.hovernetworks.com" target = "_blank"  rel="nofollow">HoverNetworks</a>.</div>
+      </footer>
+    </div>
+
+    <script src="https://bufdatascience.github.io/assets/js/main.min.js"></script>
+
+
+
+
+
+  </body>
+</html>
+

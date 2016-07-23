@@ -1,0 +1,379 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Repost: What’s the most important thing in statistics that’s not in the textbooks? - Buffalo Data Science</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="Buffalo Data Science">
+<meta property="og:title" content="Repost: What’s the most important thing in statistics that’s not in the textbooks?">
+
+
+  <link rel="canonical" href="https://bufdatascience.github.io/most_important_thing_missing_in_stats_textbooks/">
+  <meta property="og:url" content="https://bufdatascience.github.io/most_important_thing_missing_in_stats_textbooks/">
+
+
+
+  <meta property="og:description" content="Measurement, measurement, measurement. It’s central to statistics. It’s central to how we learn about the world.">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2016-05-29T00:00:00-04:00">
+  
+    <link rel="next" href="https://bufdatascience.github.io/basic-anatomy-of-prediction/" title="Repost: Credible Prediction -- Expected Value &amp; Uncertainty">
+  
+  
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Buffalo Data Science",
+      "url" : "https://bufdatascience.github.io",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://bufdatascience.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Buffalo Data Science Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://bufdatascience.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+<link rel="shortcut icon" href="/images/buffalo_ds.png">
+<!-- end custom head snippets -->
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://bufdatascience.github.io/">Buffalo Data Science</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://bufdatascience.github.io/tags/">Tags</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://bufdatascience.github.io/about/">About</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+  
+    
+
+
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a href="https://bufdatascience.github.io/" itemprop="item"><span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep"> / </span>
+      
+      
+        <li class="current">Repost: What’s the most important thing in statistics that’s not in the textbooks?</li>
+      
+    
+  </ol>
+</nav>
+  
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="https://bufdatascience.github.io/images/data+steve.jpg" class="author__avatar" alt="Steve Simpson">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Steve Simpson</h3>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+      
+        <li><a href="data-steve.github.io"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Website</a></li>
+      
+      
+      
+      
+        <li><a href="https://twitter.com/data_steve"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      
+      
+      
+      
+        <li><a href="https://www.linkedin.com/in/steve-simpson-1a05376"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+      
+      
+      
+      
+      
+      
+        <li><a href="https://github.com/data-steve"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Repost: What’s the most important thing in statistics that’s not in the textbooks?">
+    <meta itemprop="description" content="Measurement, measurement, measurement. It’s central to statistics. It’s central to how we learn about the world.">
+    <meta itemprop="datePublished" content="May 29, 2016">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Repost: What’s the most important thing in statistics that’s not in the textbooks?
+</h1>
+          
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  2 minute read
+	
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>Reposted from <a href="http://andrewgelman.com/2015/04/28/whats-important-thing-statistics-thats-not-textbooks/">Andrew Gelman’s original post in 2015</a>:</p>
+
+<p><img src="/images/VennDiagram.png" alt="" /></p>
+
+<p>As I wrote a couple years <a href="http://andrewgelman.com/2012/12/17/statistics-in-a-world-where-nothing-is-random/">ago</a>:</p>
+
+<blockquote>
+  <p>Statistics does not require randomness. The three essential elements of statistics are measurement, comparison, and variation. Randomness is one way to supply variation, and it’s one way to model variation, but it’s not necessary. Nor is it necessary to have “true” randomness (of the dice-throwing or urn-sampling variety) in order to have a useful probability model.</p>
+</blockquote>
+
+<p>For my money, the #1 neglected topic in statistics is measurement.</p>
+
+<p>In most statistics texts that I’ve seen, there’s a lot on data analysis and some stuff on data collection—sampling, random assignment, and so forth—but nothing at all on measurement. Nothing on reliability and validity but, even more than that, nothing on the concept of measurement, the idea of considering the connection between the data you gather and the underlying object of your study.</p>
+
+<p>It’s funny: the data model (the “likelihood”) is central to much of the theory and practice of statistics, but the steps that are required to make this work—the steps of measurement and assessment of measurements—are hidden.</p>
+
+<p>When it comes to the question of how to take a sample or how to randomize, or the issues that arise (nonresponse, spillovers, selection, etc.) that interfere with the model, statistics textbooks take the practical issues seriously—even an intro statistics book will discuss topics such as blinding in experiments and self-selection in surveys. But when it comes to measurement, there’s silence, just an implicit assumption that the measurement is what it is, that it’s valid and that it’s as reliable as it needs to be.</p>
+
+<h3 id="bad-things-happen-when-we-dont-think-seriously-about-measurement">Bad things happen when we don’t think seriously about measurement</h3>
+
+<p>And then what happens? Bad, bad things.</p>
+
+<p>In education—even statistics education—we don’t go to the trouble of accurately measuring what students learn. Why? Part of it is surely that measurement takes effort, and we have other demands on our time. But it’s more than that. I think a large part is that we don’t carefully think about evaluation as a measurement issue and we’re not clear on what we want students to learn and how we can measure this. Sure, we have vague ideas, but nothing precise. In other aspects of statistics we aim for precision, but when it comes to measurement, we turn off our statistics brain. And I think this is happening, in part, because the topic of measurement is tucked away in an obscure corner of statistics and is then forgotten.</p>
+
+<p>And in research too, we see big problems. Consider all those “power = .06” experiments, these “Psychological Science”-style papers we’ve been talking so much about in recent years. A common thread in these studies is sloppy, noisy, biased measurement. Just a lack of seriousness about measurement and, in particular, a resistance to the sort of within-subject designs which much more directly measure the within-person variation that is often of interest in such studies.</p>
+
+<p>Measurement, measurement, measurement. It’s central to statistics. It’s central to how we learn about the world.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="https://bufdatascience.github.io/tags/#statistics" class="page__taxonomy-item" rel="tag">Statistics</a>
+    
+    </span>
+  </p>
+
+
+
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2016-05-29T00:00:00-04:00">May 29, 2016</time></p>
+        
+      </footer>
+
+      
+
+      
+
+
+  <nav class="pagination">
+    
+      <a href="#" class="pagination--pager disabled">Previous</a>
+    
+    
+      <a href="https://bufdatascience.github.io/basic-anatomy-of-prediction/" class="pagination--pager" title="Repost: Credible Prediction – Expected Value &amp; Uncertainty
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+      <li><a href="http://github.com/BUFDataScience"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="https://bufdatascience.github.io/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">&copy; 2016 Buffalo Data Science. Sponsored by <a href="https://www.acvauctions.com" target = "_blank" rel="nofollow">ACV Auctions</a> &amp; <a href="http://www.hovernetworks.com" target = "_blank"  rel="nofollow">HoverNetworks</a>.</div>
+      </footer>
+    </div>
+
+    <script src="https://bufdatascience.github.io/assets/js/main.min.js"></script>
+
+
+
+
+
+  </body>
+</html>
+

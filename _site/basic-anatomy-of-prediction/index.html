@@ -1,0 +1,387 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Repost: Credible Prediction – Expected Value &amp; Uncertainty - Buffalo Data Science</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="Buffalo Data Science">
+<meta property="og:title" content="Repost: Credible Prediction – Expected Value &amp; Uncertainty">
+
+
+  <link rel="canonical" href="https://bufdatascience.github.io/basic-anatomy-of-prediction/">
+  <meta property="og:url" content="https://bufdatascience.github.io/basic-anatomy-of-prediction/">
+
+
+
+  <meta property="og:description" content="Every good prediction has at least 2 parts: the expected value and the uncertainty around it.">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2016-06-08T00:00:00-04:00">
+  
+    <link rel="next" href="https://bufdatascience.github.io/everyday-distributions-and-how-we-predict-from-them/" title="Repost: Predictions and Everyday Distributions">
+  
+  
+    <link rel="prev" href="https://bufdatascience.github.io/most_important_thing_missing_in_stats_textbooks/" title="Repost: What’s the most important thing in statistics that’s not in the textbooks?">
+  
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Buffalo Data Science",
+      "url" : "https://bufdatascience.github.io",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://bufdatascience.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Buffalo Data Science Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://bufdatascience.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+<link rel="shortcut icon" href="/images/buffalo_ds.png">
+<!-- end custom head snippets -->
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://bufdatascience.github.io/">Buffalo Data Science</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://bufdatascience.github.io/tags/">Tags</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://bufdatascience.github.io/about/">About</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+  
+    
+
+
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a href="https://bufdatascience.github.io/" itemprop="item"><span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep"> / </span>
+      
+      
+        <li class="current">Repost: Credible Prediction -- Expected Value & Uncertainty</li>
+      
+    
+  </ol>
+</nav>
+  
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="https://bufdatascience.github.io/images/data+steve.jpg" class="author__avatar" alt="Steve Simpson">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Steve Simpson</h3>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+      
+        <li><a href="data-steve.github.io"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Website</a></li>
+      
+      
+      
+      
+        <li><a href="https://twitter.com/data_steve"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      
+      
+      
+      
+        <li><a href="https://www.linkedin.com/in/steve-simpson-1a05376"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+      
+      
+      
+      
+      
+      
+        <li><a href="https://github.com/data-steve"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Repost: Credible Prediction – Expected Value &amp; Uncertainty">
+    <meta itemprop="description" content="Every good prediction has at least 2 parts: the expected value and the uncertainty around it.">
+    <meta itemprop="datePublished" content="June 08, 2016">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Repost: Credible Prediction – Expected Value &amp; Uncertainty
+</h1>
+          
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  2 minute read
+	
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p><img src="/images/predict_expected_value_range.png" alt="" /></p>
+
+<p>Every good prediction has at least 2 parts:</p>
+
+<ul>
+  <li>the expected value (the predicted value itself) and</li>
+  <li>the amount of uncertainty about the range of possible values that prediction could take in the data.</li>
+</ul>
+
+<p>When statistical predictions are utilized, a lot of general interest is focused around the first part (predicted value) because that feels like the successful part, like hard facts. In contrast, the uncertainty part can sometimes feel, well, like the falling-short part, the part to be minimized.</p>
+
+<p>Even while being something we may desire to minimize, the estimate of uncertainty is still valuable information. For one, you can’t minimize what you don’t measure. For another, when we know something that is highly certain, we can make confident decisions. So if we are fairly certain that an outcome will be highly (dis)advantageous, knowing this information with certainty will cause us to act more decisively and possibly more intensively to (divest) invest.</p>
+
+<p>So both parts are valuable. In every day life we use both to make informed decisions. And its good when the reporting and consumption of statistical prediction can reflect the way we use prediction all the time.</p>
+
+<p>For example, say, you ask a financial advisor for her opinion on such and such an investment: what is wanted in her assessment of the opportunity is the expected value and how much she is confident that this estimate is likely.</p>
+
+<p>She may be the wisest advisor there is and she could still rightly say, we only have enough information at this point to expect this amount of financial return on investment with this amount of variability in the possible outcomes. In fact, the wiser she is, the more clearly she’s able to articulate the risk part of investments via her estimate of the uncertainty, not just describe expected rewards as if they are certain. Furthermore, as new information comes out, she can likely adjust not only her informed estimate of the expected value but also how confident we can be in the likelihood of that estimate being realized.</p>
+
+<p>My example above shows both levels of confidence or certainty: the certainty a client can have in a professional’s advice and the certainty of the expected outcome the professionals advice includes. A client’s certainty should be increased in their advisors credibility when she includes an uncertainty estimate of an expected outcomes. Experienced advisors will find a way to convey the level of certainty in a estimate without endangering the client’s trust in the credibility of the advisor’s experience or recommendation.</p>
+
+<p>This is the distinction we are wanting to draw. Prediction gives two value pieces of insight:</p>
+
+<ul>
+  <li>insight into what is likely to happen if the expected state of the world prevails and</li>
+  <li>insight into how far from that expectations eventualities could vary.</li>
+</ul>
+
+<p>Credible predictive analytics provides both. And consumers of predictive analytics should want both in order to scope and refine their actions.</p>
+
+<p><a href="https://campuslabs.github.io/basic-anatomy-of-prediction/">Reposted from CampusLabs Data+Tech</a></p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="https://bufdatascience.github.io/tags/#prediction" class="page__taxonomy-item" rel="tag">Prediction</a>
+    
+    </span>
+  </p>
+
+
+
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2016-06-08T00:00:00-04:00">June 08, 2016</time></p>
+        
+      </footer>
+
+      
+
+      
+
+
+  <nav class="pagination">
+    
+      <a href="https://bufdatascience.github.io/most_important_thing_missing_in_stats_textbooks/" class="pagination--pager" title="Repost: What’s the most important thing in statistics that’s not in the textbooks?
+">Previous</a>
+    
+    
+      <a href="https://bufdatascience.github.io/everyday-distributions-and-how-we-predict-from-them/" class="pagination--pager" title="Repost: Predictions and Everyday Distributions
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+      <li><a href="http://github.com/BUFDataScience"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="https://bufdatascience.github.io/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">&copy; 2016 Buffalo Data Science. Sponsored by <a href="https://www.acvauctions.com" target = "_blank" rel="nofollow">ACV Auctions</a> &amp; <a href="http://www.hovernetworks.com" target = "_blank"  rel="nofollow">HoverNetworks</a>.</div>
+      </footer>
+    </div>
+
+    <script src="https://bufdatascience.github.io/assets/js/main.min.js"></script>
+
+
+
+
+
+  </body>
+</html>
+

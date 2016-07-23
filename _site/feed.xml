@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://bufdatascience.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bufdatascience.github.io/" rel="alternate" type="text/html" /><updated>2016-07-23T13:43:01-04:00</updated><id>https://bufdatascience.github.io/</id><title>Buffalo Data Science</title><author><name>Buffalo Data Science</name></author><entry><title>Meetup 3: Git and GIS</title><link href="https://bufdatascience.github.io/git-and-gis/" rel="alternate" type="text/html" title="Meetup 3: Git and GIS" /><published>2016-07-23T00:00:00-04:00</published><updated>2016-07-23T00:00:00-04:00</updated><id>https://bufdatascience.github.io/git-and-gis</id><content type="html" xml:base="https://bufdatascience.github.io/git-and-gis/">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;When:&lt;/td&gt;
+      &lt;td&gt;Tues July 26th 6-8pm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Where:&lt;/td&gt;
+      &lt;td&gt;Electric Tower  (535 Washington Str, 14th Flr).&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;What:&lt;/td&gt;
+      &lt;td&gt;git and GIS&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Eats:&lt;/td&gt;
+      &lt;td&gt;Beer and TBD&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;git&quot;&gt;git&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/try_github.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mike Canzoneri will be presenting on git. He’ll be assuming you’re at least familiar with basic idea of git. Create a github account at least.&lt;/p&gt;
+
+&lt;p&gt;Also, in prep for the git presentation, please give &lt;a href=&quot;try.github.io&quot;&gt;try.github.io&lt;/a&gt; a go. It’s pretty decent UI practice for regular git tasks.&lt;/p&gt;
+
+&lt;p&gt;As the tweet below suggests merging and branching project on teams is work and takes serious thought. But it also is a major advance for managing team work.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;git merge &lt;a href=&quot;https://t.co/WjXAbpALLD&quot;&gt;pic.twitter.com/WjXAbpALLD&lt;/a&gt;&lt;/p&gt;&amp;mdash; The Practical Dev (@ThePracticalDev) &lt;a href=&quot;https://twitter.com/ThePracticalDev/status/756864968088256512&quot;&gt;July 23, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;gis&quot;&gt;GIS&lt;/h2&gt;
+
+&lt;p&gt;Eric Montz will be giving us a GIS overview with some exposure to how to do it in python.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/gis?src=hash&quot;&gt;#gis&lt;/a&gt; data traditionally undervalued w.r.t. &lt;a href=&quot;https://twitter.com/hashtag/DataScience?src=hash&quot;&gt;#DataScience&lt;/a&gt; ROI - need more &lt;a href=&quot;https://twitter.com/hashtag/opensource?src=hash&quot;&gt;#opensource&lt;/a&gt; tools ht &lt;a href=&quot;https://twitter.com/loqate&quot;&gt;@loqate&lt;/a&gt;  &lt;a href=&quot;https://t.co/deX0b9ut6W&quot;&gt;https://t.co/deX0b9ut6W&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Cavaretta (@mjcavaretta) &lt;a href=&quot;https://twitter.com/mjcavaretta/status/756511769103835136&quot;&gt;July 22, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;After the presentation we’ll upload some content to the blog.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="git" /><category term="GIS" /><summary>When:
+      Tues July 26th 6-8pm
+    
+    
+      Where:
+      Electric Tower  (535 Washington Str, 14th Flr).
+    
+    
+      What:
+      git and GIS
+    
+    
+      Eats:
+      Beer and TBD</summary></entry><entry><title>Repost: Shrinking Uncertainty</title><link href="https://bufdatascience.github.io/shrinking-uncertainty/" rel="alternate" type="text/html" title="Repost: Shrinking Uncertainty" /><published>2016-06-29T00:00:00-04:00</published><updated>2016-06-29T00:00:00-04:00</updated><id>https://bufdatascience.github.io/shrinking-uncertainty</id><content type="html" xml:base="https://bufdatascience.github.io/shrinking-uncertainty/">&lt;p&gt;In the previous two posts we’ve explored:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;how &lt;a href=&quot;/basic-anatomy-of-prediction&quot;&gt;credible predictions give you two estimates&lt;/a&gt;: the expected outcome and how much the realized/observed outcome could reasonably differ from that.&lt;/li&gt;
+  &lt;li&gt;how &lt;a href=&quot;/everyday-distributions-and-how-we-predict-from-them&quot;&gt;distributions can help us understand both expected value and the uncertainty around it&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In this post we’ll unpack a bit more how uncertainty works, and why (as we noted in the second post) we measure/estimate uncertainty. Spoiler alert: it’s because we can do something about the things we measure.&lt;/p&gt;
+
+&lt;p&gt;In the first post we mentioned that a lot of general interest in prediction can come off as ignore the uncertainty part of the prediction, as if its dirt swept under a rug. Maybe the name ‘uncertainty’ evokes some primal instinct to fill the unknown with the known.&lt;/p&gt;
+
+&lt;p&gt;Here’s two rebuttals to that instinct to ignore uncertainty: 1) knowing what you don’t know keeps you humble and teachable and gives you guidance about where to grow. And 2) just because one might not be able to know something perfectly does not in any way equate with not knowing it well. The ‘unknown’ ≠ the ‘unknowable’.&lt;/p&gt;
+
+&lt;h3 id=&quot;measuring-to-minimize&quot;&gt;Measuring to Minimize&lt;/h3&gt;
+
+&lt;p&gt;So now consider why shrinking the range of uncertainty around your estimate is advantageous.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ranges_of_uncertainty.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Working off of &lt;a href=&quot;/everyday-distributions-and-how-we-predict-from-them&quot;&gt;last post’s milk example&lt;/a&gt;, suppose a gallon of milk cost $1 one day and $15 the next. There is wide uncertainty ranges in the price of milk. In such a case, people under that pricing regime would suffer from not really knowing what to expect one day to the next. The market was totally unpredictable. When the uncertainty ranges are wide, the range of expected outcomes are wide around the expected outcome. And so when a given choice could result in either quite bad or quite good outcomes not a small percentage of the time, making a choice seems undesirable.&lt;/p&gt;
+
+&lt;p&gt;In such situations as this, people can only do conservative things and always save their money, never spend, never invest. This is why economies that are unstable are also stagnant. Noone knows enough about the future with enough confidence that they believe an investment or a purchase will have a positive return instead of loss.&lt;/p&gt;
+
+&lt;p&gt;When you can narrow the uncertainty ranges around an expected value to much tighter that means people believe their expectations are likely enough to act within an tolerable range in the actual outcomes. Thus, they can choose to take educated risks when the expectations seem favorable to them and also hedge when expectations seem foreboding.&lt;/p&gt;
+
+&lt;h3 id=&quot;wrapping-up&quot;&gt;Wrapping up&lt;/h3&gt;
+
+&lt;p&gt;As I’ve described in earlier posts, we all do this type of prediction with uncertainty internally. So in statistical predictions, we should strive to incorporate both parts of the prediction.&lt;/p&gt;
+
+&lt;p&gt;Being precise doesn’t mean that uncertainty will go to zero; that would mean the outcome was so regular we wouldn’t even need predictions. Noone needs to predict gravity or the speed of light: they’re laws of natures and essentially constant.&lt;/p&gt;
+
+&lt;p&gt;So in situations where the outcomes are uncertain knowing any amount of what might happen is an improvement on not knowing anything at all. That reduces the uncertainty. And yet, precision in prediction will still want to estimate both the expected outcome and the uncertainty around that outcome: what we can expect and how that expectation may differ from what eventually happens.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://campuslabs.github.io/shrinking-uncertainty/&quot;&gt;Reposted from CampusLabs Data+Tech&lt;/a&gt;&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="Prediction" /><summary>Two rebuttals against an instinct to ignore uncertainty: 1) knowing what you don&#39;t know keeps you humble and teachable, and gives you guidance about where to grow. And 2) just because one might not be able to know something perfectly does not in any way equate with not some it well. The &#39;unknown&#39; more often than not does not equate to the &#39;unknowable&#39;.</summary></entry><entry><title>Meetup 2: Tidy Data</title><link href="https://bufdatascience.github.io/tidy_data/" rel="alternate" type="text/html" title="Meetup 2: Tidy Data" /><published>2016-06-27T00:00:00-04:00</published><updated>2016-06-27T00:00:00-04:00</updated><id>https://bufdatascience.github.io/tidy_data</id><content type="html" xml:base="https://bufdatascience.github.io/tidy_data/">&lt;p&gt;&lt;img src=&quot;http://garrettgman.github.io/images/tidy-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://garrettgman.github.io/tidying/&quot;&gt;Tidy Data visual by Garrett Grolemund&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;demo-ed/discussed the tidy data principle by Hadley Wickham. Tidy Data has been massively influential idea in data science since 80% of our time is spent tidying up messy data.&lt;/p&gt;
+
+&lt;p&gt;Tidy data principles worked out 
+ - &lt;a href=&quot;https://t.co/xlT1HO5QAp&quot;&gt;in R&lt;/a&gt;  and 
+ - Python (&lt;a href=&quot;https://github.com/jfpuget/Tidy-Data/blob/master/Tidy-Data.ipynb&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en&quot;&gt;2&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Here’s some cheat sheets &lt;a href=&quot;https://t.co/0SutUCIRyx&quot;&gt;for R&lt;/a&gt;  and &lt;a href=&quot;http://www.analyticsvidhya.com/wp-content/uploads/2015/06/infographics-final.jpg&quot;&gt;Python&lt;/a&gt; (its really tall and skinny).&lt;/p&gt;
+
+&lt;p&gt;For reference: Hadley’s 3 main R packages dplyr, tidyr, and ggplot2 are the cornerstone of modern exploratory data analysis in R. The equivalent in Python is pandas by Wes McKinney (like dplyr and tidyr) and matplotlib. If you don’t know these packages, they’ve made on boarding in either language much easier. You should give them a try over at Datacamp.com, which has some really excellent free and paid tutorials in R and (now) Python. Datacamp.com’s  an interactive platform like Codecademy that gives feedback on your code in the browser, so its super helpful.&lt;/p&gt;
+
+&lt;h4 id=&quot;application&quot;&gt;Application&lt;/h4&gt;
+
+&lt;p&gt;Following the survival analysis presentation: we finished up with data-storytelling applications of how we could use data tidying skills to improve our survival analysis thru feature generation.&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="munging" /><category term="predictives" /><summary>Introduction to Tidy Data Principles, with coding exercise.</summary></entry><entry><title>Meetup 2: Survival Analysis</title><link href="https://bufdatascience.github.io/survival_analysis/" rel="alternate" type="text/html" title="Meetup 2: Survival Analysis" /><published>2016-06-27T00:00:00-04:00</published><updated>2016-06-27T00:00:00-04:00</updated><id>https://bufdatascience.github.io/survival_analysis</id><content type="html" xml:base="https://bufdatascience.github.io/survival_analysis/">&lt;p&gt;&lt;img src=&quot;http://austinrochford.com/resources/bayes-survival/2015-10-05-bayes-survival_49_0.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Survival_analysis&quot;&gt;Survival analysis&lt;/a&gt; was discussed at a fundamental mathematical level, with accompanying toy example on the &lt;a href=&quot;https://www.umass.edu/statdata/statdata/data/whas500.xls, https://www.umass.edu/statdata/statdata/data/&quot;&gt;Worcester Heart Attack Study data&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Code examples were demonstrated in Python. ….&lt;/p&gt;
+
+&lt;p&gt;And translated into R. ….&lt;/p&gt;
+
+&lt;h4 id=&quot;application&quot;&gt;Application&lt;/h4&gt;
+
+&lt;p&gt;If we have time, we’ll finish up with data-storytelling applications of how we could use data tidying skills to improve our survival analysis thru feature generation.&lt;/p&gt;</content><author><name>Tom Fusillo</name></author><category term="predictives" /><summary>Introduction to Survival Analysis, including Math and Code applications</summary></entry><entry><title>Repost: Predictions and Everyday Distributions</title><link href="https://bufdatascience.github.io/everyday-distributions-and-how-we-predict-from-them/" rel="alternate" type="text/html" title="Repost: Predictions and Everyday Distributions" /><published>2016-06-21T00:00:00-04:00</published><updated>2016-06-21T00:00:00-04:00</updated><id>https://bufdatascience.github.io/everyday-distributions-and-how-we-predict-from-them</id><content type="html" xml:base="https://bufdatascience.github.io/everyday-distributions-and-how-we-predict-from-them/">&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/HPvTiQU5xCMBa/giphy-tumblr.gif&quot; width=&quot;200&quot; style=&quot;float:left&quot; hspace=&quot;20&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Statisticians are often memed for giving “It depends” as an answer when people want solid stats. Statisticians aren’t wrong to say it depends, because the more you study something, the more you see how so many factors are at play that … well, it depends. But people aren’t wrong either for wanting actionable intell.&lt;/p&gt;
+
+&lt;p&gt;So is there a middle ground: is there a way to make “It depends” be more informative. We could ask, depends on what? This requires a lot more explaining from the statistician and often funds more research, but may still end in some sort of “It depends” answer. Another way to extract some insight from beyond “It depends” is ask over what range is depends, or to scope that range of possible outcomes with an answer to, how much does it depend?&lt;/p&gt;
+
+&lt;p&gt;And that’s where distributions come in. Distributions are one way to summarize and visualize “It depends”.&lt;/p&gt;
+
+&lt;h3 id=&quot;an-example&quot;&gt;An Example&lt;/h3&gt;
+
+&lt;p&gt;Suppose you have to drive to store to get milk.&lt;/p&gt;
+
+&lt;p&gt;To do this task, you must make a guess about how much it should cost before you actually see the price to decide how much money you’ll need to have in your wallet to buy it. You know you currently have $5 in your wallet.  So you ask yourself: based on my past experience at the stores, is $5 enough to buy milk or do I need to go to the ATM first?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/milk_expected_value_range.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s say from regularly shopping at different stores where you’ve seen prices as low as $2.75 and as high as $4.00 (this range makes up your confidence interval. You expect to see reasonable prices in this range.) you make a fairly educated guess: the average of all the prices I’ve seen in the past is around $3.50 and so you’d be pleasantly surprised to see it lower than 2.75 and angry to see it higher than 4.00. So you decide $5 is enough without going to the ATM.&lt;/p&gt;
+
+&lt;p&gt;When you get to Aldi, they have a sale on milk for $2.50. You are elated because this is much lower (significantly different on low side) than you expected the usual price would be, so you buy 2 cartoons. However, if you’d stopped at Wegman’s that day you would have been infuriated that the price was $4.50 because you thought it was a rip off (statistically different from the expected on the high side). Even though you had the money, you would have thought it was unfair and driven somewhere else.&lt;/p&gt;
+
+&lt;p&gt;That relates the usefulness of the price distribution above. It lets you put a range around your guess within which you will still follow through with your plan; any thing outside of that plan (on either side) requires a revision in some way. That distribution of price also measures your uncertainty of the actual price you’ll observe at any one place, but an assumption of what that range could reasonably be. If it goes beyond that reasonable scope, you have an interpretation ready for that and a likely action or attitude to that experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://campuslabs.github.io/everyday-distributions-and-how-we-predict-from-them/&quot;&gt;Reposted from CampusLabs Data+Tech&lt;/a&gt;&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="Prediction" /><summary>Is there a way to make &#39;It depends&#39; be more informative. We could ask, depends on what? This requires a lot more explaining from the statistician and often funds more research, but may still end in some sort of &#39;It depends&#39; answer. Another way to extract some insight from beyond &#39;It depends&#39; is ask over what range is depends, or to scope that range of possible outcomes with an answer to, how much does it depend?</summary></entry><entry><title>Repost: Credible Prediction – Expected Value &amp;amp; Uncertainty</title><link href="https://bufdatascience.github.io/basic-anatomy-of-prediction/" rel="alternate" type="text/html" title="Repost: Credible Prediction -- Expected Value &amp; Uncertainty" /><published>2016-06-08T00:00:00-04:00</published><updated>2016-06-08T00:00:00-04:00</updated><id>https://bufdatascience.github.io/basic-anatomy-of-prediction</id><content type="html" xml:base="https://bufdatascience.github.io/basic-anatomy-of-prediction/">&lt;p&gt;&lt;img src=&quot;/images/predict_expected_value_range.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every good prediction has at least 2 parts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the expected value (the predicted value itself) and&lt;/li&gt;
+  &lt;li&gt;the amount of uncertainty about the range of possible values that prediction could take in the data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When statistical predictions are utilized, a lot of general interest is focused around the first part (predicted value) because that feels like the successful part, like hard facts. In contrast, the uncertainty part can sometimes feel, well, like the falling-short part, the part to be minimized.&lt;/p&gt;
+
+&lt;p&gt;Even while being something we may desire to minimize, the estimate of uncertainty is still valuable information. For one, you can’t minimize what you don’t measure. For another, when we know something that is highly certain, we can make confident decisions. So if we are fairly certain that an outcome will be highly (dis)advantageous, knowing this information with certainty will cause us to act more decisively and possibly more intensively to (divest) invest.&lt;/p&gt;
+
+&lt;p&gt;So both parts are valuable. In every day life we use both to make informed decisions. And its good when the reporting and consumption of statistical prediction can reflect the way we use prediction all the time.&lt;/p&gt;
+
+&lt;p&gt;For example, say, you ask a financial advisor for her opinion on such and such an investment: what is wanted in her assessment of the opportunity is the expected value and how much she is confident that this estimate is likely.&lt;/p&gt;
+
+&lt;p&gt;She may be the wisest advisor there is and she could still rightly say, we only have enough information at this point to expect this amount of financial return on investment with this amount of variability in the possible outcomes. In fact, the wiser she is, the more clearly she’s able to articulate the risk part of investments via her estimate of the uncertainty, not just describe expected rewards as if they are certain. Furthermore, as new information comes out, she can likely adjust not only her informed estimate of the expected value but also how confident we can be in the likelihood of that estimate being realized.&lt;/p&gt;
+
+&lt;p&gt;My example above shows both levels of confidence or certainty: the certainty a client can have in a professional’s advice and the certainty of the expected outcome the professionals advice includes. A client’s certainty should be increased in their advisors credibility when she includes an uncertainty estimate of an expected outcomes. Experienced advisors will find a way to convey the level of certainty in a estimate without endangering the client’s trust in the credibility of the advisor’s experience or recommendation.&lt;/p&gt;
+
+&lt;p&gt;This is the distinction we are wanting to draw. Prediction gives two value pieces of insight:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;insight into what is likely to happen if the expected state of the world prevails and&lt;/li&gt;
+  &lt;li&gt;insight into how far from that expectations eventualities could vary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Credible predictive analytics provides both. And consumers of predictive analytics should want both in order to scope and refine their actions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://campuslabs.github.io/basic-anatomy-of-prediction/&quot;&gt;Reposted from CampusLabs Data+Tech&lt;/a&gt;&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="Prediction" /><summary>Every good prediction has at least 2 parts: the expected value and the uncertainty around it.</summary></entry><entry><title>Repost: What’s the most important thing in statistics that’s not in the textbooks?</title><link href="https://bufdatascience.github.io/most_important_thing_missing_in_stats_textbooks/" rel="alternate" type="text/html" title="Repost: What’s the most important thing in statistics that’s not in the textbooks?" /><published>2016-05-29T00:00:00-04:00</published><updated>2016-05-29T00:00:00-04:00</updated><id>https://bufdatascience.github.io/most_important_thing_missing_in_stats_textbooks</id><content type="html" xml:base="https://bufdatascience.github.io/most_important_thing_missing_in_stats_textbooks/">&lt;p&gt;Reposted from &lt;a href=&quot;http://andrewgelman.com/2015/04/28/whats-important-thing-statistics-thats-not-textbooks/&quot;&gt;Andrew Gelman’s original post in 2015&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/VennDiagram.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As I wrote a couple years &lt;a href=&quot;http://andrewgelman.com/2012/12/17/statistics-in-a-world-where-nothing-is-random/&quot;&gt;ago&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Statistics does not require randomness. The three essential elements of statistics are measurement, comparison, and variation. Randomness is one way to supply variation, and it’s one way to model variation, but it’s not necessary. Nor is it necessary to have “true” randomness (of the dice-throwing or urn-sampling variety) in order to have a useful probability model.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For my money, the #1 neglected topic in statistics is measurement.&lt;/p&gt;
+
+&lt;p&gt;In most statistics texts that I’ve seen, there’s a lot on data analysis and some stuff on data collection—sampling, random assignment, and so forth—but nothing at all on measurement. Nothing on reliability and validity but, even more than that, nothing on the concept of measurement, the idea of considering the connection between the data you gather and the underlying object of your study.&lt;/p&gt;
+
+&lt;p&gt;It’s funny: the data model (the “likelihood”) is central to much of the theory and practice of statistics, but the steps that are required to make this work—the steps of measurement and assessment of measurements—are hidden.&lt;/p&gt;
+
+&lt;p&gt;When it comes to the question of how to take a sample or how to randomize, or the issues that arise (nonresponse, spillovers, selection, etc.) that interfere with the model, statistics textbooks take the practical issues seriously—even an intro statistics book will discuss topics such as blinding in experiments and self-selection in surveys. But when it comes to measurement, there’s silence, just an implicit assumption that the measurement is what it is, that it’s valid and that it’s as reliable as it needs to be.&lt;/p&gt;
+
+&lt;h3 id=&quot;bad-things-happen-when-we-dont-think-seriously-about-measurement&quot;&gt;Bad things happen when we don’t think seriously about measurement&lt;/h3&gt;
+
+&lt;p&gt;And then what happens? Bad, bad things.&lt;/p&gt;
+
+&lt;p&gt;In education—even statistics education—we don’t go to the trouble of accurately measuring what students learn. Why? Part of it is surely that measurement takes effort, and we have other demands on our time. But it’s more than that. I think a large part is that we don’t carefully think about evaluation as a measurement issue and we’re not clear on what we want students to learn and how we can measure this. Sure, we have vague ideas, but nothing precise. In other aspects of statistics we aim for precision, but when it comes to measurement, we turn off our statistics brain. And I think this is happening, in part, because the topic of measurement is tucked away in an obscure corner of statistics and is then forgotten.&lt;/p&gt;
+
+&lt;p&gt;And in research too, we see big problems. Consider all those “power = .06” experiments, these “Psychological Science”-style papers we’ve been talking so much about in recent years. A common thread in these studies is sloppy, noisy, biased measurement. Just a lack of seriousness about measurement and, in particular, a resistance to the sort of within-subject designs which much more directly measure the within-person variation that is often of interest in such studies.&lt;/p&gt;
+
+&lt;p&gt;Measurement, measurement, measurement. It’s central to statistics. It’s central to how we learn about the world.&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="Statistics" /><summary>Measurement, measurement, measurement. It’s central to statistics. It’s central to how we learn about the world.</summary></entry></feed>
