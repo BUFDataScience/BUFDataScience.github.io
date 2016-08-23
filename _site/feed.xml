@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://bufdatascience.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bufdatascience.github.io/" rel="alternate" type="text/html" /><updated>2016-07-23T13:43:01-04:00</updated><id>https://bufdatascience.github.io/</id><title>Buffalo Data Science</title><author><name>Buffalo Data Science</name></author><entry><title>Meetup 3: Git and GIS</title><link href="https://bufdatascience.github.io/git-and-gis/" rel="alternate" type="text/html" title="Meetup 3: Git and GIS" /><published>2016-07-23T00:00:00-04:00</published><updated>2016-07-23T00:00:00-04:00</updated><id>https://bufdatascience.github.io/git-and-gis</id><content type="html" xml:base="https://bufdatascience.github.io/git-and-gis/">&lt;table&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://bufdatascience.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bufdatascience.github.io/" rel="alternate" type="text/html" /><updated>2016-08-23T15:19:49-04:00</updated><id>https://bufdatascience.github.io/</id><title>Buffalo Data Science</title><author><name>Buffalo Data Science</name></author><entry><title>Meetup 4: SQL and query optimization</title><link href="https://bufdatascience.github.io/sql/" rel="alternate" type="text/html" title="Meetup 4: SQL and query optimization" /><published>2016-08-23T00:00:00-04:00</published><updated>2016-08-23T00:00:00-04:00</updated><id>https://bufdatascience.github.io/sql</id><content type="html" xml:base="https://bufdatascience.github.io/sql/">&lt;p&gt;&lt;img src=&quot;https://s-media-cache-ak0.pinimg.com/600x315/75/56/4b/75564b22447e025618f13a765105e214.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;When:&lt;/td&gt;
+      &lt;td&gt;Tues Aug 23rd 6-8pm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Where:&lt;/td&gt;
+      &lt;td&gt;Electric Tower  (535 Washington St, 14th Flr; enter E. Huron St).&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;What:&lt;/td&gt;
+      &lt;td&gt;SQL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Eats:&lt;/td&gt;
+      &lt;td&gt;Beer and TBD&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;sql&quot;&gt;SQL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/jared-majewski-47539740&quot;&gt;Jared Majewski&lt;/a&gt; will be presenting on SQL and query optimization. He’ll be assuming you’re at least familiar with basic idea of SQL queries and will explore SQL techniques that are useful for data scientists, developers, and even database administrators.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s-media-cache-ak0.pinimg.com/564x/da/17/68/da17685033e4ee2adc630443ace50d8b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, in prep for the SQL presentation, please give &lt;a href=&quot;sqlzoo.net&quot;&gt;SQLZOO&lt;/a&gt; a go. It’s like W3Schools for SQL.&lt;/p&gt;
+
+&lt;p&gt;As the tweet below suggests merging and branching project on teams is work and takes serious thought. But it also is a major advance for managing team work.&lt;/p&gt;
+
+&lt;p&gt;Here’s a smart looking diagram of SQL join types.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/SQL_Joins.svg/2000px-SQL_Joins.svg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="SQL" /><summary></summary></entry><entry><title>Meetup 3: GIS</title><link href="https://bufdatascience.github.io/gis/" rel="alternate" type="text/html" title="Meetup 3: GIS" /><published>2016-07-23T00:00:00-04:00</published><updated>2016-07-23T00:00:00-04:00</updated><id>https://bufdatascience.github.io/gis</id><content type="html" xml:base="https://bufdatascience.github.io/gis/">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;When:&lt;/td&gt;
@@ -10,7 +45,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;What:&lt;/td&gt;
-      &lt;td&gt;git and GIS&lt;/td&gt;
+      &lt;td&gt;GIS&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Eats:&lt;/td&gt;
@@ -18,18 +53,6 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;h2 id=&quot;git&quot;&gt;git&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/try_github.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Mike Canzoneri will be presenting on git. He’ll be assuming you’re at least familiar with basic idea of git. Create a github account at least.&lt;/p&gt;
-
-&lt;p&gt;Also, in prep for the git presentation, please give &lt;a href=&quot;try.github.io&quot;&gt;try.github.io&lt;/a&gt; a go. It’s pretty decent UI practice for regular git tasks.&lt;/p&gt;
-
-&lt;p&gt;As the tweet below suggests merging and branching project on teams is work and takes serious thought. But it also is a major advance for managing team work.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;git merge &lt;a href=&quot;https://t.co/WjXAbpALLD&quot;&gt;pic.twitter.com/WjXAbpALLD&lt;/a&gt;&lt;/p&gt;&amp;mdash; The Practical Dev (@ThePracticalDev) &lt;a href=&quot;https://twitter.com/ThePracticalDev/status/756864968088256512&quot;&gt;July 23, 2016&lt;/a&gt;&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;gis&quot;&gt;GIS&lt;/h2&gt;
 
@@ -39,7 +62,7 @@
 
 &lt;p&gt;After the presentation we’ll upload some content to the blog.&lt;/p&gt;
 
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="git" /><category term="GIS" /><summary>When:
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="GIS" /><summary>When:
       Tues July 26th 6-8pm
     
     
@@ -48,7 +71,7 @@
     
     
       What:
-      git and GIS
+      GIS
     
     
       Eats:
