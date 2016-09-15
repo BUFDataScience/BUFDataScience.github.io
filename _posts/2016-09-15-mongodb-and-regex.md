@@ -19,9 +19,9 @@ tags: [databases,text]
 
 ## Mongo
 
-Casey Iannone will give an overview introduction to mongodb and nosql style database.
+[Casey Iannone](https://www.linkedin.com/in/caseyiannone) will give an overview introduction to mongodb and nosql style database.
 
 
 ## Regex
 
-Tyler Rinker's talk on regex will be interactive. [Preparation instructions](https://github.com/BUFDataScience/Regex-Intro) will ensure you get the most out of the meeting.
+[Tyler Rinker's](https://www.linkedin.com/in/tyler-rinker-1a036b39) talk on regex will be interactive. [Preparation instructions](https://github.com/BUFDataScience/Regex-Intro) will ensure you get the most out of the meeting.
