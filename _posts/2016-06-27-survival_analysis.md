@@ -1,7 +1,7 @@
 ---
 title: "Meetup 2: Survival Analysis"
 author: Tom Fusillo
-tags: [predictives]
+tags: [prediction]
 excerpt: "Introduction to Survival Analysis, including Math and Code applications"
 ---
 

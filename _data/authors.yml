@@ -9,7 +9,7 @@ Steve Simpson:
 Tyler Rinker:
   name: "Tyler Rinker"
   uri: "https://trinkerrstuff.wordpress.com/"
-  avatar: "https://pbs.twimg.com/profile_images/3409396165/3df155436a5f9201830bcc65f7a836f7.jpeg"
+  avatar: "tyler.jpg"
   twitter: "tylerrinker"
   linked: tyler-rinker-1a036b39
   github: trinker
@@ -18,3 +18,13 @@ Tom Fusillo:
   name: "Tom Fusillo"
   avatar: tom.jpg
   linkedin: tom-fusillo-21152138
+
+
+Casey Iannone:
+  name: "Casey Iannone"
+  avatar: casey.jpg
+  linkedin: caseyiannone
+
+Jared Majewski:
+  name: "Jared Majewski"
+  linkedin: jared-majewski-47539740

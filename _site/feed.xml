@@ -1,6 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://bufdatascience.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bufdatascience.github.io/" rel="alternate" type="text/html" /><updated>2016-08-23T15:26:54-04:00</updated><id>https://bufdatascience.github.io/</id><title>Buffalo Data Science</title><author><name>Buffalo Data Science</name></author><entry><title>Meetup 4: SQL and query optimization</title><link href="https://bufdatascience.github.io/sql/" rel="alternate" type="text/html" title="Meetup 4: SQL and query optimization" /><published>2016-08-23T00:00:00-04:00</published><updated>2016-08-23T00:00:00-04:00</updated><id>https://bufdatascience.github.io/sql</id><content type="html" xml:base="https://bufdatascience.github.io/sql/">&lt;p&gt;&lt;img src=&quot;https://s-media-cache-ak0.pinimg.com/600x315/75/56/4b/75564b22447e025618f13a765105e214.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-09-15T10:01:00-04:00</updated><id>/</id><title>Buffalo Data Science</title><author><name>Buffalo Data Science</name></author><entry><title>Meetup 5: Intro to MongoDB and Regex</title><link href="/mongodb-and-regex/" rel="alternate" type="text/html" title="Meetup 5: Intro to MongoDB and Regex" /><published>2016-09-15T00:00:00-04:00</published><updated>2016-09-15T00:00:00-04:00</updated><id>/mongodb-and-regex</id><content type="html" xml:base="/mongodb-and-regex/">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;When:&lt;/td&gt;
+      &lt;td&gt;Thur Sept 29th 6-8pm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Where:&lt;/td&gt;
+      &lt;td&gt;Electric Tower  (535 Washington St, 14th Flr; enter E. Huron St).&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;What:&lt;/td&gt;
+      &lt;td&gt;Mongo and Regex&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Eats:&lt;/td&gt;
+      &lt;td&gt;Beer and TBD&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/BUFDataScience/Regex-Intro/raw/master/figures/meme.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mongo&quot;&gt;Mongo&lt;/h2&gt;
+
+&lt;p&gt;Casey Iannone will give an overview introduction to mongodb and nosql style database.&lt;/p&gt;
+
+&lt;h2 id=&quot;regex&quot;&gt;Regex&lt;/h2&gt;
+
+&lt;p&gt;Tyler Rinker’s talk on regex will be interactive. &lt;a href=&quot;https://github.com/BUFDataScience/Regex-Intro&quot;&gt;Preparation instructions&lt;/a&gt; will ensure you get the most out of the meeting.&lt;/p&gt;</content><author><name>Buffalo Data Science</name></author><category term="databases" /><category term="text" /><summary>When:
+      Thur Sept 29th 6-8pm
+    
+    
+      Where:
+      Electric Tower  (535 Washington St, 14th Flr; enter E. Huron St).
+    
+    
+      What:
+      Mongo and Regex
+    
+    
+      Eats:
+      Beer and TBD</summary></entry><entry><title>Meetup 4: SQL and query optimization</title><link href="/sql/" rel="alternate" type="text/html" title="Meetup 4: SQL and query optimization" /><published>2016-08-23T00:00:00-04:00</published><updated>2016-08-23T00:00:00-04:00</updated><id>/sql</id><content type="html" xml:base="/sql/">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;When:&lt;/td&gt;
@@ -21,6 +63,8 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
+&lt;p&gt;&lt;img src=&quot;https://s-media-cache-ak0.pinimg.com/600x315/75/56/4b/75564b22447e025618f13a765105e214.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;sql&quot;&gt;SQL&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/jared-majewski-47539740&quot;&gt;Jared Majewski&lt;/a&gt; will be presenting on SQL and query optimization. He’ll be assuming you’re at least familiar with basic idea of SQL queries and will explore SQL techniques that are useful for data scientists, developers, and even database administrators.&lt;/p&gt;
@@ -33,7 +77,20 @@
 
 &lt;p&gt;Here’s a smart looking diagram of SQL join types.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/SQL_Joins.svg/2000px-SQL_Joins.svg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="SQL" /><summary></summary></entry><entry><title>Meetup 3: GIS</title><link href="https://bufdatascience.github.io/gis/" rel="alternate" type="text/html" title="Meetup 3: GIS" /><published>2016-07-23T00:00:00-04:00</published><updated>2016-07-23T00:00:00-04:00</updated><id>https://bufdatascience.github.io/gis</id><content type="html" xml:base="https://bufdatascience.github.io/gis/">&lt;table&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/SQL_Joins.svg/2000px-SQL_Joins.svg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Buffalo Data Science</name></author><category term="databases" /><summary>When:
+      Tues Aug 23rd 6-8pm
+    
+    
+      Where:
+      Electric Tower  (535 Washington St, 14th Flr; enter E. Huron St).
+    
+    
+      What:
+      SQL
+    
+    
+      Eats:
+      Beer and TBD</summary></entry><entry><title>Meetup 3: GIS</title><link href="/gis/" rel="alternate" type="text/html" title="Meetup 3: GIS" /><published>2016-07-23T00:00:00-04:00</published><updated>2016-07-23T00:00:00-04:00</updated><id>/gis</id><content type="html" xml:base="/gis/">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;When:&lt;/td&gt;
@@ -75,7 +132,7 @@
     
     
       Eats:
-      Beer and TBD</summary></entry><entry><title>Repost: Shrinking Uncertainty</title><link href="https://bufdatascience.github.io/shrinking-uncertainty/" rel="alternate" type="text/html" title="Repost: Shrinking Uncertainty" /><published>2016-06-29T00:00:00-04:00</published><updated>2016-06-29T00:00:00-04:00</updated><id>https://bufdatascience.github.io/shrinking-uncertainty</id><content type="html" xml:base="https://bufdatascience.github.io/shrinking-uncertainty/">&lt;p&gt;In the previous two posts we’ve explored:&lt;/p&gt;
+      Beer and TBD</summary></entry><entry><title>Repost: Shrinking Uncertainty</title><link href="/shrinking-uncertainty/" rel="alternate" type="text/html" title="Repost: Shrinking Uncertainty" /><published>2016-06-29T00:00:00-04:00</published><updated>2016-06-29T00:00:00-04:00</updated><id>/shrinking-uncertainty</id><content type="html" xml:base="/shrinking-uncertainty/">&lt;p&gt;In the previous two posts we’ve explored:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;how &lt;a href=&quot;/basic-anatomy-of-prediction&quot;&gt;credible predictions give you two estimates&lt;/a&gt;: the expected outcome and how much the realized/observed outcome could reasonably differ from that.&lt;/li&gt;
@@ -108,7 +165,7 @@
 
 &lt;p&gt;So in situations where the outcomes are uncertain knowing any amount of what might happen is an improvement on not knowing anything at all. That reduces the uncertainty. And yet, precision in prediction will still want to estimate both the expected outcome and the uncertainty around that outcome: what we can expect and how that expectation may differ from what eventually happens.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://campuslabs.github.io/shrinking-uncertainty/&quot;&gt;Reposted from CampusLabs Data+Tech&lt;/a&gt;&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="Prediction" /><summary>Two rebuttals against an instinct to ignore uncertainty: 1) knowing what you don&#39;t know keeps you humble and teachable, and gives you guidance about where to grow. And 2) just because one might not be able to know something perfectly does not in any way equate with not some it well. The &#39;unknown&#39; more often than not does not equate to the &#39;unknowable&#39;.</summary></entry><entry><title>Meetup 2: Tidy Data</title><link href="https://bufdatascience.github.io/tidy_data/" rel="alternate" type="text/html" title="Meetup 2: Tidy Data" /><published>2016-06-27T00:00:00-04:00</published><updated>2016-06-27T00:00:00-04:00</updated><id>https://bufdatascience.github.io/tidy_data</id><content type="html" xml:base="https://bufdatascience.github.io/tidy_data/">&lt;p&gt;&lt;img src=&quot;http://garrettgman.github.io/images/tidy-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://campuslabs.github.io/shrinking-uncertainty/&quot;&gt;Reposted from CampusLabs Data+Tech&lt;/a&gt;&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="prediction" /><summary>Two rebuttals against an instinct to ignore uncertainty: 1) knowing what you don&#39;t know keeps you humble and teachable, and gives you guidance about where to grow. And 2) just because one might not be able to know something perfectly does not in any way equate with not some it well. The &#39;unknown&#39; more often than not does not equate to the &#39;unknowable&#39;.</summary></entry><entry><title>Meetup 2: Tidy Data</title><link href="/tidy_data/" rel="alternate" type="text/html" title="Meetup 2: Tidy Data" /><published>2016-06-27T00:00:00-04:00</published><updated>2016-06-27T00:00:00-04:00</updated><id>/tidy_data</id><content type="html" xml:base="/tidy_data/">&lt;p&gt;&lt;img src=&quot;http://garrettgman.github.io/images/tidy-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://garrettgman.github.io/tidying/&quot;&gt;Tidy Data visual by Garrett Grolemund&lt;/a&gt;&lt;/p&gt;
 
@@ -124,7 +181,7 @@
 
 &lt;h4 id=&quot;application&quot;&gt;Application&lt;/h4&gt;
 
-&lt;p&gt;Following the survival analysis presentation: we finished up with data-storytelling applications of how we could use data tidying skills to improve our survival analysis thru feature generation.&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="munging" /><category term="predictives" /><summary>Introduction to Tidy Data Principles, with coding exercise.</summary></entry><entry><title>Meetup 2: Survival Analysis</title><link href="https://bufdatascience.github.io/survival_analysis/" rel="alternate" type="text/html" title="Meetup 2: Survival Analysis" /><published>2016-06-27T00:00:00-04:00</published><updated>2016-06-27T00:00:00-04:00</updated><id>https://bufdatascience.github.io/survival_analysis</id><content type="html" xml:base="https://bufdatascience.github.io/survival_analysis/">&lt;p&gt;&lt;img src=&quot;http://austinrochford.com/resources/bayes-survival/2015-10-05-bayes-survival_49_0.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Following the survival analysis presentation: we finished up with data-storytelling applications of how we could use data tidying skills to improve our survival analysis thru feature generation.&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="munging" /><category term="prediction" /><summary>Introduction to Tidy Data Principles, with coding exercise.</summary></entry><entry><title>Meetup 2: Survival Analysis</title><link href="/survival_analysis/" rel="alternate" type="text/html" title="Meetup 2: Survival Analysis" /><published>2016-06-27T00:00:00-04:00</published><updated>2016-06-27T00:00:00-04:00</updated><id>/survival_analysis</id><content type="html" xml:base="/survival_analysis/">&lt;p&gt;&lt;img src=&quot;http://austinrochford.com/resources/bayes-survival/2015-10-05-bayes-survival_49_0.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Survival_analysis&quot;&gt;Survival analysis&lt;/a&gt; was discussed at a fundamental mathematical level, with accompanying toy example on the &lt;a href=&quot;https://www.umass.edu/statdata/statdata/data/whas500.xls, https://www.umass.edu/statdata/statdata/data/&quot;&gt;Worcester Heart Attack Study data&lt;/a&gt;.&lt;/p&gt;
 
@@ -134,7 +191,7 @@
 
 &lt;h4 id=&quot;application&quot;&gt;Application&lt;/h4&gt;
 
-&lt;p&gt;If we have time, we’ll finish up with data-storytelling applications of how we could use data tidying skills to improve our survival analysis thru feature generation.&lt;/p&gt;</content><author><name>Tom Fusillo</name></author><category term="predictives" /><summary>Introduction to Survival Analysis, including Math and Code applications</summary></entry><entry><title>Repost: Predictions and Everyday Distributions</title><link href="https://bufdatascience.github.io/everyday-distributions-and-how-we-predict-from-them/" rel="alternate" type="text/html" title="Repost: Predictions and Everyday Distributions" /><published>2016-06-21T00:00:00-04:00</published><updated>2016-06-21T00:00:00-04:00</updated><id>https://bufdatascience.github.io/everyday-distributions-and-how-we-predict-from-them</id><content type="html" xml:base="https://bufdatascience.github.io/everyday-distributions-and-how-we-predict-from-them/">&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/HPvTiQU5xCMBa/giphy-tumblr.gif&quot; width=&quot;200&quot; style=&quot;float:left&quot; hspace=&quot;20&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;If we have time, we’ll finish up with data-storytelling applications of how we could use data tidying skills to improve our survival analysis thru feature generation.&lt;/p&gt;</content><author><name>Tom Fusillo</name></author><category term="prediction" /><summary>Introduction to Survival Analysis, including Math and Code applications</summary></entry><entry><title>Repost: Predictions and Everyday Distributions</title><link href="/everyday-distributions-and-how-we-predict-from-them/" rel="alternate" type="text/html" title="Repost: Predictions and Everyday Distributions" /><published>2016-06-21T00:00:00-04:00</published><updated>2016-06-21T00:00:00-04:00</updated><id>/everyday-distributions-and-how-we-predict-from-them</id><content type="html" xml:base="/everyday-distributions-and-how-we-predict-from-them/">&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/HPvTiQU5xCMBa/giphy-tumblr.gif&quot; width=&quot;200&quot; style=&quot;float:left&quot; hspace=&quot;20&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Statisticians are often memed for giving “It depends” as an answer when people want solid stats. Statisticians aren’t wrong to say it depends, because the more you study something, the more you see how so many factors are at play that … well, it depends. But people aren’t wrong either for wanting actionable intell.&lt;/p&gt;
 
@@ -156,7 +213,7 @@
 
 &lt;p&gt;That relates the usefulness of the price distribution above. It lets you put a range around your guess within which you will still follow through with your plan; any thing outside of that plan (on either side) requires a revision in some way. That distribution of price also measures your uncertainty of the actual price you’ll observe at any one place, but an assumption of what that range could reasonably be. If it goes beyond that reasonable scope, you have an interpretation ready for that and a likely action or attitude to that experience.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://campuslabs.github.io/everyday-distributions-and-how-we-predict-from-them/&quot;&gt;Reposted from CampusLabs Data+Tech&lt;/a&gt;&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="Prediction" /><summary>Is there a way to make &#39;It depends&#39; be more informative. We could ask, depends on what? This requires a lot more explaining from the statistician and often funds more research, but may still end in some sort of &#39;It depends&#39; answer. Another way to extract some insight from beyond &#39;It depends&#39; is ask over what range is depends, or to scope that range of possible outcomes with an answer to, how much does it depend?</summary></entry><entry><title>Repost: Credible Prediction – Expected Value &amp;amp; Uncertainty</title><link href="https://bufdatascience.github.io/basic-anatomy-of-prediction/" rel="alternate" type="text/html" title="Repost: Credible Prediction -- Expected Value &amp; Uncertainty" /><published>2016-06-08T00:00:00-04:00</published><updated>2016-06-08T00:00:00-04:00</updated><id>https://bufdatascience.github.io/basic-anatomy-of-prediction</id><content type="html" xml:base="https://bufdatascience.github.io/basic-anatomy-of-prediction/">&lt;p&gt;&lt;img src=&quot;/images/predict_expected_value_range.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://campuslabs.github.io/everyday-distributions-and-how-we-predict-from-them/&quot;&gt;Reposted from CampusLabs Data+Tech&lt;/a&gt;&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="prediction" /><summary>Is there a way to make &#39;It depends&#39; be more informative. We could ask, depends on what? This requires a lot more explaining from the statistician and often funds more research, but may still end in some sort of &#39;It depends&#39; answer. Another way to extract some insight from beyond &#39;It depends&#39; is ask over what range is depends, or to scope that range of possible outcomes with an answer to, how much does it depend?</summary></entry><entry><title>Repost: Credible Prediction – Expected Value &amp;amp; Uncertainty</title><link href="/basic-anatomy-of-prediction/" rel="alternate" type="text/html" title="Repost: Credible Prediction -- Expected Value &amp; Uncertainty" /><published>2016-06-08T00:00:00-04:00</published><updated>2016-06-08T00:00:00-04:00</updated><id>/basic-anatomy-of-prediction</id><content type="html" xml:base="/basic-anatomy-of-prediction/">&lt;p&gt;&lt;img src=&quot;/images/predict_expected_value_range.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Every good prediction has at least 2 parts:&lt;/p&gt;
 
@@ -186,7 +243,7 @@
 
 &lt;p&gt;Credible predictive analytics provides both. And consumers of predictive analytics should want both in order to scope and refine their actions.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://campuslabs.github.io/basic-anatomy-of-prediction/&quot;&gt;Reposted from CampusLabs Data+Tech&lt;/a&gt;&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="Prediction" /><summary>Every good prediction has at least 2 parts: the expected value and the uncertainty around it.</summary></entry><entry><title>Repost: What’s the most important thing in statistics that’s not in the textbooks?</title><link href="https://bufdatascience.github.io/most_important_thing_missing_in_stats_textbooks/" rel="alternate" type="text/html" title="Repost: What’s the most important thing in statistics that’s not in the textbooks?" /><published>2016-05-29T00:00:00-04:00</published><updated>2016-05-29T00:00:00-04:00</updated><id>https://bufdatascience.github.io/most_important_thing_missing_in_stats_textbooks</id><content type="html" xml:base="https://bufdatascience.github.io/most_important_thing_missing_in_stats_textbooks/">&lt;p&gt;Reposted from &lt;a href=&quot;http://andrewgelman.com/2015/04/28/whats-important-thing-statistics-thats-not-textbooks/&quot;&gt;Andrew Gelman’s original post in 2015&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://campuslabs.github.io/basic-anatomy-of-prediction/&quot;&gt;Reposted from CampusLabs Data+Tech&lt;/a&gt;&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="prediction" /><summary>Every good prediction has at least 2 parts: the expected value and the uncertainty around it.</summary></entry><entry><title>Repost: What’s the most important thing in statistics that’s not in the textbooks?</title><link href="/most_important_thing_missing_in_stats_textbooks/" rel="alternate" type="text/html" title="Repost: What’s the most important thing in statistics that’s not in the textbooks?" /><published>2016-05-29T00:00:00-04:00</published><updated>2016-05-29T00:00:00-04:00</updated><id>/most_important_thing_missing_in_stats_textbooks</id><content type="html" xml:base="/most_important_thing_missing_in_stats_textbooks/">&lt;p&gt;Reposted from &lt;a href=&quot;http://andrewgelman.com/2015/04/28/whats-important-thing-statistics-thats-not-textbooks/&quot;&gt;Andrew Gelman’s original post in 2015&lt;/a&gt;:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/VennDiagram.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -212,4 +269,4 @@
 
 &lt;p&gt;And in research too, we see big problems. Consider all those “power = .06” experiments, these “Psychological Science”-style papers we’ve been talking so much about in recent years. A common thread in these studies is sloppy, noisy, biased measurement. Just a lack of seriousness about measurement and, in particular, a resistance to the sort of within-subject designs which much more directly measure the within-person variation that is often of interest in such studies.&lt;/p&gt;
 
-&lt;p&gt;Measurement, measurement, measurement. It’s central to statistics. It’s central to how we learn about the world.&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="Statistics" /><summary>Measurement, measurement, measurement. It’s central to statistics. It’s central to how we learn about the world.</summary></entry></feed>
+&lt;p&gt;Measurement, measurement, measurement. It’s central to statistics. It’s central to how we learn about the world.&lt;/p&gt;</content><author><name>Steve Simpson</name><email>data-steve.github.io</email></author><category term="statistics" /><summary>Measurement, measurement, measurement. It’s central to statistics. It’s central to how we learn about the world.</summary></entry></feed>

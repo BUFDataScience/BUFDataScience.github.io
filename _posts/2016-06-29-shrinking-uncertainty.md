@@ -1,6 +1,6 @@
 ---
 title: "Repost: Shrinking Uncertainty"
-tags: [Prediction]
+tags: [prediction]
 author: Steve Simpson
 excerpt:  "Two rebuttals against an instinct to ignore uncertainty: 1) knowing what you don't know keeps you humble and teachable, and gives you guidance about where to grow. And 2) just because one might not be able to know something perfectly does not in any way equate with not some it well. The 'unknown' more often than not does not equate to the 'unknowable'."
 ---

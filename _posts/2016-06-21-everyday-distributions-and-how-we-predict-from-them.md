@@ -1,6 +1,6 @@
 ---
 title: "Repost: Predictions and Everyday Distributions"
-tags: [Prediction]
+tags: [prediction]
 author: Steve Simpson
 excerpt: "Is there a way to make 'It depends' be more informative. We could ask, depends on what? This requires a lot more explaining from the statistician and often funds more research, but may still end in some sort of 'It depends' answer. Another way to extract some insight from beyond 'It depends' is ask over what range is depends, or to scope that range of possible outcomes with an answer to, how much does it depend?"
 ---

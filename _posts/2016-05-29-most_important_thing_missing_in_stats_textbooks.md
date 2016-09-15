@@ -1,6 +1,6 @@
 ---
 title: "Repost: What’s the most important thing in statistics that’s not in the textbooks?"
-tags: [Statistics]
+tags: [statistics]
 author: Steve Simpson
 excerpt: "Measurement, measurement, measurement. It’s central to statistics. It’s central to how we learn about the world."
 ---

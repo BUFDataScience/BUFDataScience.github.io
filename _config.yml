@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Buffalo Data Science"
 title_separator          : "-"
 name                     : "Buffalo Data Science"
-description              : 
+description              :
 url                      : https://bufdatascience.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #https://bufdatascience.github.io # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -68,7 +68,7 @@ author:
   bio              : Sponsored by <a href="https://www.acvauctions.com" target = "_blank" rel="nofollow">ACV Auctions</a> &amp; <a href="http://www.argyletechnologygroup.com/" target = "_blank"  rel="nofollow">Argyle Tech</a>. # Data Science in the BUF
   location         : "Buffalo, NY"
   email            :
-  uri              : 
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :

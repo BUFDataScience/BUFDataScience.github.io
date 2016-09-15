@@ -1,7 +1,7 @@
 ---
 author: Steve Simpson
 title: "Repost: Credible Prediction -- Expected Value & Uncertainty"
-tags: [Prediction]
+tags: [prediction]
 excerpt: "Every good prediction has at least 2 parts: the expected value and the uncertainty around it."
 ---
 
