@@ -4,7 +4,7 @@ tags: [databases,text]
 ---
 
 |:----|:--------------------|
-| When: | Thur Sept 29th 6-8pm |
+| When: | Thur Oct 6th 6-8pm |
 | Where:  | Electric Tower  (535 Washington St, 14th Flr; enter E. Huron St). |
 | What: | Mongo and Regex |
 | Eats: | Beer and TBD | 
