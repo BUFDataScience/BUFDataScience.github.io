@@ -33,7 +33,7 @@ Sports Data Science is a general interest topic with an increasingly sophisticat
 
 ## MoneyPuck: How Analytics is Transforming the NHL
 
-Who: Matt Busigin, CTO, Hoover Networks
+Who: Matt Busigin, CTO, Hover Networks
 
 Sabermetrics is the data science of baseball, as epitomized in MoneyBall. "MoneyPuck" is the data science of hockey; one might call Buffalo's own version, Sabers-Metrics. 
 
