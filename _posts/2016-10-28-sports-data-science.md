@@ -1,5 +1,5 @@
 ---
-title: 'Sports Data Science'
+title: 'Meetup 6: Sports Data Science'
 tags: [prediction, statistics, measurement]
 
 ---
