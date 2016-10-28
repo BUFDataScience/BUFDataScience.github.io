@@ -14,9 +14,11 @@ tags: [prediction, statistics, measurement]
 | Eats: | Beers and TBD | 
 
 <br>
+<br>
 
 # RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdgafFqbcI_1Yko7chKwe9uhcDALzz1wNJIDZXyupJXgd2Rmg/viewform)
 
+<br>
 <br>
 
 ![](/images/sports_sign_up.png)
