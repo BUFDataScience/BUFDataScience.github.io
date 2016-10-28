@@ -11,7 +11,7 @@ tags: [prediction, statistics, measurement]
 | When: | Thur Nov 10th 6-8pm |
 | Where:  | TBD |
 | What: | Sports Data Science |
-| Eats: | TBD | 
+| Eats: | Beers and TBD | 
 
 <br>
 
