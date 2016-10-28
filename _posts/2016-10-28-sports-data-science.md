@@ -9,7 +9,7 @@ tags: [prediction, statistics, measurement]
 
 |:----|:--------------------|
 | When: | Thur Nov 10th 6-8pm |
-| Where:  | TBD |
+| Where:  | TBD, based on RSVP below |
 | What: | Sports Data Science |
 | Eats: | Beers and TBD | 
 
