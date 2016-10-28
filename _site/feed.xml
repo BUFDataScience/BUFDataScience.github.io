@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://bufdatascience.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bufdatascience.github.io/" rel="alternate" type="text/html" /><updated>2016-10-28T11:21:45-04:00</updated><id>https://bufdatascience.github.io/</id><title>Buffalo Data Science</title><author><name>Buffalo Data Science</name></author><entry><title>Sports Data Science</title><link href="https://bufdatascience.github.io/sports-data-science/" rel="alternate" type="text/html" title="Sports Data Science" /><published>2016-10-28T00:00:00-04:00</published><updated>2016-10-28T00:00:00-04:00</updated><id>https://bufdatascience.github.io/sports-data-science</id><content type="html" xml:base="https://bufdatascience.github.io/sports-data-science/">&lt;table&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://bufdatascience.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bufdatascience.github.io/" rel="alternate" type="text/html" /><updated>2016-10-28T11:35:25-04:00</updated><id>https://bufdatascience.github.io/</id><title>Buffalo Data Science</title><author><name>Buffalo Data Science</name></author><entry><title>Meetup 6: Sports Data Science</title><link href="https://bufdatascience.github.io/sports-data-science/" rel="alternate" type="text/html" title="Meetup 6: Sports Data Science" /><published>2016-10-28T00:00:00-04:00</published><updated>2016-10-28T00:00:00-04:00</updated><id>https://bufdatascience.github.io/sports-data-science</id><content type="html" xml:base="https://bufdatascience.github.io/sports-data-science/">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;When:&lt;/td&gt;
@@ -14,18 +14,24 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Eats:&lt;/td&gt;
-      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;Beers and TBD&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://opimg.com/fantasy/articles-attachments/1/55c/afd59478e9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;rsvp-herehttpsdocsgooglecomformsde1faipqlsdgaffqbci1yko7chkwe9uhcdalzz1wnjidzxyupjxgd2rmgviewform&quot;&gt;RSVP &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdgafFqbcI_1Yko7chKwe9uhcDALzz1wNJIDZXyupJXgd2Rmg/viewform&quot;&gt;here&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Increasingly Sports is becoming a domain where immense amounts of data are being generated for reasons as varied as big business boardroom decisions and live entertainment commentaries. Sports Data Science is general interest topic with an increasingly sophisticated audience. Which is why we are exciting to bring both of these together in this meetup with the following two topics.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/sports_sign_up.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Increasingly Sports is becoming a domain where immense amounts of data are being generated for reasons as varied as big business boardroom decisions and live entertainment commentaries.&lt;/p&gt;
+
+&lt;p&gt;Sports Data Science is a general interest topic with an increasingly sophisticated audience. We are excited to bring both of these together in a place like Buffalo where the fans are so avid.&lt;/p&gt;
 
 &lt;h2 id=&quot;moneypuck-how-analytics-is-transforming-the-nhl&quot;&gt;MoneyPuck: How Analytics is Transforming the NHL&lt;/h2&gt;
 
@@ -54,7 +60,7 @@
     
     
       Eats:
-      TBD</summary></entry><entry><title>Meetup 5: Intro to MongoDB and Regex</title><link href="https://bufdatascience.github.io/mongodb-and-regex/" rel="alternate" type="text/html" title="Meetup 5: Intro to MongoDB and Regex" /><published>2016-09-15T00:00:00-04:00</published><updated>2016-09-15T00:00:00-04:00</updated><id>https://bufdatascience.github.io/mongodb-and-regex</id><content type="html" xml:base="https://bufdatascience.github.io/mongodb-and-regex/">&lt;table&gt;
+      Beers and TBD</summary></entry><entry><title>Meetup 5: Intro to MongoDB and Regex</title><link href="https://bufdatascience.github.io/mongodb-and-regex/" rel="alternate" type="text/html" title="Meetup 5: Intro to MongoDB and Regex" /><published>2016-09-15T00:00:00-04:00</published><updated>2016-09-15T00:00:00-04:00</updated><id>https://bufdatascience.github.io/mongodb-and-regex</id><content type="html" xml:base="https://bufdatascience.github.io/mongodb-and-regex/">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;When:&lt;/td&gt;

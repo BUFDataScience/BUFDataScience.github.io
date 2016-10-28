@@ -15,11 +15,18 @@ tags: [prediction, statistics, measurement]
 
 <br>
 
-![](https://opimg.com/fantasy/articles-attachments/1/55c/afd59478e9.png)
+# RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSdgafFqbcI_1Yko7chKwe9uhcDALzz1wNJIDZXyupJXgd2Rmg/viewform)
 
 <br>
 
-Increasingly Sports is becoming a domain where immense amounts of data are being generated for reasons as varied as big business boardroom decisions and live entertainment commentaries. Sports Data Science is general interest topic with an increasingly sophisticated audience. Which is why we are exciting to bring both of these together in this meetup with the following two topics.
+![](/images/sports_sign_up.png)
+
+<br>
+
+
+Increasingly Sports is becoming a domain where immense amounts of data are being generated for reasons as varied as big business boardroom decisions and live entertainment commentaries. 
+
+Sports Data Science is a general interest topic with an increasingly sophisticated audience. We are excited to bring both of these together in a place like Buffalo where the fans are so avid. 
 
 
 
