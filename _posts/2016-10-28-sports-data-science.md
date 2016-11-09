@@ -9,9 +9,9 @@ tags: [prediction, statistics, measurement]
 
 |:----|:--------------------|
 | When: | Thur Nov 10th 6-8pm |
-| Where:  | TBD, based on RSVP below |
+| Where:  | Electric Tower (535 Washington St, 14th Flr) |
 | What: | Sports Data Science |
-| Eats: | Beers and TBD | 
+| Eats: | Beers and Pizza/Wings | 
 
 <br>
 <br>
