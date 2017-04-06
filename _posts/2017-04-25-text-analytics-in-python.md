@@ -1,5 +1,5 @@
 ---
-title: 'Meetup 8: Text Analytics in Python'
+title: 'Meetup 8: Intro to Text Analytics in Python'
 tags: [text]
 
 ---
@@ -8,7 +8,7 @@ tags: [text]
 |:----|:--------------------|
 | When: | Tues Apr 25th 6-8pm (come by 5:45ish to get in building) |
 | Where:  | Electric Tower (535 Washington St, 14th Flr) |
-| What: | Historical Global Temperature Trends |
+| What: | Intro to Text Analytics in Python |
 
 
 <br>
