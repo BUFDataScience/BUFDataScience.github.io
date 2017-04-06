@@ -6,7 +6,7 @@ tags: [text]
 
 
 |:----|:--------------------|
-| When: | Tues Apr 25th 6-8pm |
+| When: | Tues Apr 25th 6-8pm (come by 5:45ish to get in building) |
 | Where:  | Electric Tower (535 Washington St, 14th Flr) |
 | What: | Historical Global Temperature Trends |
 
